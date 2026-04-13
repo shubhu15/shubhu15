@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Shubhi 👋
+# Hey, I'm Shubhangi 👋
 
 **Backend · ML/AI · Cloud Engineer**
 
@@ -20,7 +20,7 @@ MS Computer Science (AI minor) · Oregon State University · GPA 3.97 · San Jos
 
 I'm a software engineer with 4+ years of industry experience across enterprise healthcare (UnitedHealth Group), B2B SaaS (WorkSpan), and cloud security (Illumio). I just finished my MS in CS with an AI minor at Oregon State — GPA 3.97 — while TAing 5 courses and doing a co-op at Illumio simultaneously.
 
-I'm language-agnostic: I picked up Go and Terraform from scratch at Illumio and was shipping production code within weeks. Right now I'm upskilling in AI agent development — building real products, not just watching tutorials.
+I'm language-agnostic: I picked up Go and Terraform from scratch at Illumio and was shipping production code within weeks. Right now I'm upskilling in AI agent development — building real products.
 
 **Open to:** Backend SWE · ML/AI Engineer · Cloud/Platform · Full-Stack
 
