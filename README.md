@@ -6,7 +6,7 @@
 
 MS Computer Science (AI minor) · Oregon State University · GPA 3.97 · San Jose, CA
 
-*I build things, own things, and don't wait to be told what to do.*
+*I build things, own things, and but don't share my food.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhi07-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhi07/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shubhu15.github.io-black?style=flat&logo=github)](https://shubhu15.github.io/)
